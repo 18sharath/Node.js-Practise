@@ -1,0 +1,15 @@
+{
+  "name": "pkjson",
+  "version": "1.0.0",
+  "description": "this is what iside content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sharath t laad",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.7.0"
+  }
+}
